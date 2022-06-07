@@ -2,6 +2,8 @@
 
 <h2>Landing page made with React JS</h2>
 <ul>
+  <li> teste</li>  
+</ul>
   
   
 
